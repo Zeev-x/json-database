@@ -14,6 +14,7 @@ Ecchi database memungkinkan kamu mendapat gambar henta*
 * [ecchi-5.json](https://zeev-x.github.io/json-database/ecchi/ecchi-5.json)
 * [recommended.json](https://zeev-x.github.io/json-database/ecchi/recommended.json)
 * [stars.json](https://zeev-x.github.io/json-database/ecchi/stars.json)
+
 ## Note
 
 Kamu pilih saja sendiri karena saya juga ga tau yang bagus yang mana.
