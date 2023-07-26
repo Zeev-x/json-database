@@ -14,6 +14,7 @@ Ecchi database memungkinkan kamu mendapat gambar henta*
 * [ecchi-3.json](https://zeev-x.github.io/json-database/ecchi/ecchi-3.json)
 * [ecchi-4.json](https://zeev-x.github.io/json-database/ecchi/ecchi-4.json)
 * [ecchi-5.json](https://zeev-x.github.io/json-database/ecchi/ecchi-5.json)
+* [ecchi-6.json](https://zeev-x.github.io/json-database/ecchi/ecchi-5.json)
 * [erotic.json](https://zeev-x.github.io/json-database/ecchi/erotic.json)
 * [nezuko.json](https://zeev-x.github.io/json-database/ecchi/nezuko.json)
 * [recommended.json](https://zeev-x.github.io/json-database/ecchi/recommended.json)
